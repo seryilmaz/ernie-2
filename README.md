@@ -1,5 +1,5 @@
 # ernie-2
-CNN training for Ernie architecture using TensorFlow
+CNN training for Ernie architecture using TensorFlow.
 Requires TensorFlow 0.10.0 or above. For previous versions, some changes in code are needed.
 Tested in Python 2.7.
 Training is performed with CIFAR10 dataset. Current architecture has 6 conv layers with max-pooling after every 2 layers; 2 FC layers, and 1 softmax layer.
